@@ -1,0 +1,10 @@
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\21\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\21\SpaceInvaderScreens\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Supreme\Desktop\Final\SpaceInvaderStages\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Supreme\Desktop\Final\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Supreme\Desktop\Software Deve   lopment UG1 2010-11\Final\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Supreme\Documents\Uni\Year 1\Software Deve   lopment UG1 2010-11\Final\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
